@@ -6,11 +6,9 @@ title: Published Papers
 ## Longer Days, better Performance? <br> The Impact of All-day Primary Schools in Germany
 
 
-
 <a href="https://www.sciencedirect.com/science/article/pii/S0272775725000391"> Article </a> 
 
 “Longer days, better performance? The impact of all-day primary schools in Germany” (2025, with __Larissa Zierow__), _Economics of Education Review, 107_ <br>
-
 
 This paper investigates the effects of voluntary all-day programs in German primary schools on student outcomes. To address selection bias, we use federal construction subsidies as an instrument for all-day school expansion. The program significantly increased all-day school attendance. However, second-stage results are mixed and suffer from statistical imprecision. While no significant effects are found on test scores or math grades, there are positive impacts on German grades and academic track attendance after primary school. Results indicate that all-day programs improve student satisfaction and reduce bullying; yet, we find no evidence of a reduction in educational inequality.
 
