@@ -55,7 +55,8 @@ project:
     browser: true
     watch-inputs: true
     navigate: true
-
+resources:
+  - robots.txtquarto render
 execute:
   freeze: true
 
