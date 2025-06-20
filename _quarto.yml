@@ -5,7 +5,8 @@ website:
   title: "Arnim Seidlitz"                                # Your name
   description: "I am a post-doc at IAB in Nuremberg"   # A brief slogan (optional)
   image: img/my_image.jpg
-  
+  site-url: https://arnimseidlitz.github.io
+ 
   favicon: ""
   
   # start of the navigation bar at the top of the website
