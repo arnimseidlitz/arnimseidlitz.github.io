@@ -2,10 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://arnimseidlitz.github.io/ongoing_research/index.html</loc>
-    <lastmod>2025-06-20T14:35:35.475Z</lastmod>
+    <lastmod>2025-10-11T08:55:11.053Z</lastmod>
   </url>
   <url>
     <loc>https://arnimseidlitz.github.io/index.html</loc>
     <lastmod>2025-04-01T09:50:34.918Z</lastmod>
+  </url>
+  <url>
+    <loc>https://arnimseidlitz.github.io/policy_papers/index.html</loc>
+    <lastmod>2025-10-11T08:50:32.126Z</lastmod>
+  </url>
+  <url>
+    <loc>https://arnimseidlitz.github.io/published_papers/index.html</loc>
+    <lastmod>2025-06-20T15:14:57.125Z</lastmod>
+  </url>
+  <url>
+    <loc>https://arnimseidlitz.github.io/cv/index.html</loc>
+    <lastmod>2025-04-01T09:01:36.396Z</lastmod>
   </url>
 </urlset>
