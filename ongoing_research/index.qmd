@@ -8,7 +8,7 @@ title: Ongoing research
 
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5527321" target="_blank"> Working Paper</a> 
 
-“Innovation and Motherhood” (2025, with __Clemens Müller__ and __Stefan Obernberger__), _Available at SSRN_ 
+“Innovation and Motherhood” (2025, with __Clemens Müller__ and __Stefan Obernberger__), <br>  _Available at SSRN_ 
 
 We investigate the impact of childbirth on the careers of women in innovation, a male dominated field. We find that the fertility rate of female inventors is remarkably low. Most female inventors have their first child only after filing their first patent application. Following birth, female inventors are much less likely to file patents. Much of the loss in patent output can be explained by temporary (maternity) leave, part-time work, and lower mobility. The innovation gap after childbirth leads to economically meaningful wage disparities, indicating a substantial depreciation of female inventors' human capital. Male inventors also face declines in their innovation output and earnings, but these losses are much smaller than those observed for women. Our findings emphasize the difficulties of reconciling a career in innovation with being a parent in general and with being a mother in particular. 
 
