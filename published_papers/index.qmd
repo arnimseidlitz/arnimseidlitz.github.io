@@ -12,10 +12,7 @@ title: Published Papers
 
 This paper investigates the effects of voluntary all-day programs in German primary schools on student outcomes. To address selection bias, we use federal construction subsidies as an instrument for all-day school expansion. The program significantly increased all-day school attendance. However, second-stage results are mixed and suffer from statistical imprecision. While no significant effects are found on test scores or math grades, there are positive impacts on German grades and academic track attendance after primary school. Results indicate that all-day programs improve student satisfaction and reduce bullying; yet, we find no evidence of a reduction in educational inequality.
 
-
-
 ## The 2011 break in the part-time indicator and the evolution of wage inequality in Germany
-
 
 
 <a href="https://labourmarketresearch.springeropen.com/articles/10.1186/s12651-019-0265-0" target="_blank"> Article</a> 
