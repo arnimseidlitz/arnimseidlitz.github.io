@@ -18,8 +18,10 @@ website:
     left:
       - text: "Ongoing Research"
         href: ongoing_research/index.qmd
-      - text: "Policy Paper"
+      - text: "Policy Papers"
         href: policy_papers/index.qmd
+      - text: "Method Report"
+        href: method_report/index.qmd
       - text: "Published Papers"
         href: published_papers/index.qmd
       - text: "CV"
